@@ -22,7 +22,7 @@ export default function Footer() {
           <ul className="flex gap-6 text-sm text-white/70">
             <li className="hover:text-blue-400 cursor-pointer">GitHub</li>
             <li className="hover:text-blue-400 cursor-pointer">Discord</li>
-            <li className="hover:text-blue-400 cursor-pointer">Twitter</li>
+            {/* <li className="hover:text-blue-400 cursor-pointer">Twitter</li> */}
           </ul>
         </div>
 
