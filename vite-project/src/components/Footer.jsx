@@ -16,7 +16,7 @@ export default function Footer() {
         {/* Top Row */}
         <div className="flex flex-col gap-6 md:flex-row md:items-center md:justify-between">
           <div>
-            <h2 className="text-lg font-bold tracking-wide">SPHINX</h2>
+            <h2 className="text-lg font-bold tracking-wide">KITTITHAT</h2>
           </div>
 
           <ul className="flex gap-6 text-sm text-white/70">
@@ -28,7 +28,7 @@ export default function Footer() {
 
         {/* Bottom */}
         <div className="mt-6 pt-4 border-t border-white/10 text-center text-xs text-white/40">
-          © {new Date().getFullYear()} SPHINX. All rights reserved.
+          © {new Date().getFullYear()} KITTITHAT. All rights reserved.
         </div>
       </div>
     </footer>
